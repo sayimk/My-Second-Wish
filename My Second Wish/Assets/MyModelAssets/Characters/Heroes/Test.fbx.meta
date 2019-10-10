@@ -1,0 +1,1354 @@
+fileFormatVersion: 2
+guid: 698acfca237914d49acf2101a9ceedb6
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Head
+    100002: Hips
+    100004: imagePlane1
+    100006: LeftArm
+    100008: LeftFoot
+    100010: LeftForeArm
+    100012: LeftHand
+    100014: LeftLeg
+    100016: LeftShoulder
+    100018: LeftToeBase
+    100020: LeftUpLeg
+    100022: Neck
+    100024: pCylinder1
+    100026: pCylinder10
+    100028: pCylinder11
+    100030: pCylinder12
+    100032: pCylinder13
+    100034: pCylinder14
+    100036: pCylinder15
+    100038: pCylinder16
+    100040: pCylinder17
+    100042: pCylinder18
+    100044: pCylinder19
+    100046: pCylinder4
+    100048: pCylinder5
+    100050: pCylinder6
+    100052: pCylinder7
+    100054: polySurface1
+    100056: polySurface10
+    100058: polySurface11
+    100060: polySurface12
+    100062: polySurface2
+    100064: polySurface2 1
+    100066: polySurface3
+    100068: polySurface3 1
+    100070: polySurface4
+    100072: polySurface5
+    100074: polySurface6
+    100076: polySurface6 1
+    100078: polySurface7
+    100080: polySurface8
+    100082: polySurface8 1
+    100084: polySurface9
+    100086: polySurface9 1
+    100088: pSphere1
+    100090: QuickRigCharacter_Ctrl_ChestEndEffector
+    100092: QuickRigCharacter_Ctrl_ChestOriginEffector
+    100094: QuickRigCharacter_Ctrl_Head
+    100096: QuickRigCharacter_Ctrl_HeadEffector
+    100098: QuickRigCharacter_Ctrl_Hips
+    100100: QuickRigCharacter_Ctrl_HipsEffector
+    100102: QuickRigCharacter_Ctrl_LeftAnkleEffector
+    100104: QuickRigCharacter_Ctrl_LeftArm
+    100106: QuickRigCharacter_Ctrl_LeftElbowEffector
+    100108: QuickRigCharacter_Ctrl_LeftFoot
+    100110: QuickRigCharacter_Ctrl_LeftFootEffector
+    100112: QuickRigCharacter_Ctrl_LeftForeArm
+    100114: QuickRigCharacter_Ctrl_LeftHand
+    100116: QuickRigCharacter_Ctrl_LeftHipEffector
+    100118: QuickRigCharacter_Ctrl_LeftKneeEffector
+    100120: QuickRigCharacter_Ctrl_LeftLeg
+    100122: QuickRigCharacter_Ctrl_LeftShoulder
+    100124: QuickRigCharacter_Ctrl_LeftShoulderEffector
+    100126: QuickRigCharacter_Ctrl_LeftToeBase
+    100128: QuickRigCharacter_Ctrl_LeftUpLeg
+    100130: QuickRigCharacter_Ctrl_LeftWristEffector
+    100132: QuickRigCharacter_Ctrl_Neck
+    100134: QuickRigCharacter_Ctrl_Reference
+    100136: QuickRigCharacter_Ctrl_RightAnkleEffector
+    100138: QuickRigCharacter_Ctrl_RightArm
+    100140: QuickRigCharacter_Ctrl_RightElbowEffector
+    100142: QuickRigCharacter_Ctrl_RightFoot
+    100144: QuickRigCharacter_Ctrl_RightFootEffector
+    100146: QuickRigCharacter_Ctrl_RightForeArm
+    100148: QuickRigCharacter_Ctrl_RightHand
+    100150: QuickRigCharacter_Ctrl_RightHipEffector
+    100152: QuickRigCharacter_Ctrl_RightKneeEffector
+    100154: QuickRigCharacter_Ctrl_RightLeg
+    100156: QuickRigCharacter_Ctrl_RightShoulder
+    100158: QuickRigCharacter_Ctrl_RightShoulderEffector
+    100160: QuickRigCharacter_Ctrl_RightToeBase
+    100162: QuickRigCharacter_Ctrl_RightUpLeg
+    100164: QuickRigCharacter_Ctrl_RightWristEffector
+    100166: QuickRigCharacter_Ctrl_Spine
+    100168: QuickRigCharacter_Ctrl_Spine1
+    100170: QuickRigCharacter_Ctrl_Spine2
+    100172: QuickRigCharacter_Guides
+    100174: QuickRigCharacter_Head
+    100176: QuickRigCharacter_Hips
+    100178: QuickRigCharacter_LeftArm
+    100180: QuickRigCharacter_LeftFoot
+    100182: QuickRigCharacter_LeftForeArm
+    100184: QuickRigCharacter_LeftHand
+    100186: QuickRigCharacter_LeftLeg
+    100188: QuickRigCharacter_LeftShoulder
+    100190: QuickRigCharacter_LeftToeBase
+    100192: QuickRigCharacter_LeftUpLeg
+    100194: QuickRigCharacter_Neck
+    100196: QuickRigCharacter_Reference
+    100198: QuickRigCharacter_RightArm
+    100200: QuickRigCharacter_RightFoot
+    100202: QuickRigCharacter_RightForeArm
+    100204: QuickRigCharacter_RightHand
+    100206: QuickRigCharacter_RightLeg
+    100208: QuickRigCharacter_RightShoulder
+    100210: QuickRigCharacter_RightToeBase
+    100212: QuickRigCharacter_RightUpLeg
+    100214: QuickRigCharacter_Spine
+    100216: QuickRigCharacter_Spine1
+    100218: QuickRigCharacter_Spine2
+    100220: Reference
+    100222: RightArm
+    100224: RightFoot
+    100226: RightForeArm
+    100228: RightHand
+    100230: RightLeg
+    100232: RightShoulder
+    100234: RightToeBase
+    100236: RightUpLeg
+    100238: Spine
+    100240: Spine1
+    100242: Spine2
+    100244: //RootNode
+    100246: transform1
+    100248: transform10
+    100250: transform11
+    100252: transform12
+    100254: transform13
+    100256: transform14
+    100258: transform15
+    100260: transform16
+    100262: transform17
+    100264: transform18
+    100266: transform19
+    100268: transform2
+    100270: transform20
+    100272: transform21
+    100274: transform22
+    100276: transform23
+    100278: transform24
+    100280: transform25
+    100282: transform26
+    100284: transform27
+    100286: transform28
+    100288: transform29
+    100290: transform3
+    100292: transform30
+    100294: transform31
+    100296: transform4
+    100298: transform5
+    100300: transform6
+    100302: transform7
+    100304: transform8
+    100306: transform9
+    400000: Head
+    400002: Hips
+    400004: imagePlane1
+    400006: LeftArm
+    400008: LeftFoot
+    400010: LeftForeArm
+    400012: LeftHand
+    400014: LeftLeg
+    400016: LeftShoulder
+    400018: LeftToeBase
+    400020: LeftUpLeg
+    400022: Neck
+    400024: pCylinder1
+    400026: pCylinder10
+    400028: pCylinder11
+    400030: pCylinder12
+    400032: pCylinder13
+    400034: pCylinder14
+    400036: pCylinder15
+    400038: pCylinder16
+    400040: pCylinder17
+    400042: pCylinder18
+    400044: pCylinder19
+    400046: pCylinder4
+    400048: pCylinder5
+    400050: pCylinder6
+    400052: pCylinder7
+    400054: polySurface1
+    400056: polySurface10
+    400058: polySurface11
+    400060: polySurface12
+    400062: polySurface2
+    400064: polySurface2 1
+    400066: polySurface3
+    400068: polySurface3 1
+    400070: polySurface4
+    400072: polySurface5
+    400074: polySurface6
+    400076: polySurface6 1
+    400078: polySurface7
+    400080: polySurface8
+    400082: polySurface8 1
+    400084: polySurface9
+    400086: polySurface9 1
+    400088: pSphere1
+    400090: QuickRigCharacter_Ctrl_ChestEndEffector
+    400092: QuickRigCharacter_Ctrl_ChestOriginEffector
+    400094: QuickRigCharacter_Ctrl_Head
+    400096: QuickRigCharacter_Ctrl_HeadEffector
+    400098: QuickRigCharacter_Ctrl_Hips
+    400100: QuickRigCharacter_Ctrl_HipsEffector
+    400102: QuickRigCharacter_Ctrl_LeftAnkleEffector
+    400104: QuickRigCharacter_Ctrl_LeftArm
+    400106: QuickRigCharacter_Ctrl_LeftElbowEffector
+    400108: QuickRigCharacter_Ctrl_LeftFoot
+    400110: QuickRigCharacter_Ctrl_LeftFootEffector
+    400112: QuickRigCharacter_Ctrl_LeftForeArm
+    400114: QuickRigCharacter_Ctrl_LeftHand
+    400116: QuickRigCharacter_Ctrl_LeftHipEffector
+    400118: QuickRigCharacter_Ctrl_LeftKneeEffector
+    400120: QuickRigCharacter_Ctrl_LeftLeg
+    400122: QuickRigCharacter_Ctrl_LeftShoulder
+    400124: QuickRigCharacter_Ctrl_LeftShoulderEffector
+    400126: QuickRigCharacter_Ctrl_LeftToeBase
+    400128: QuickRigCharacter_Ctrl_LeftUpLeg
+    400130: QuickRigCharacter_Ctrl_LeftWristEffector
+    400132: QuickRigCharacter_Ctrl_Neck
+    400134: QuickRigCharacter_Ctrl_Reference
+    400136: QuickRigCharacter_Ctrl_RightAnkleEffector
+    400138: QuickRigCharacter_Ctrl_RightArm
+    400140: QuickRigCharacter_Ctrl_RightElbowEffector
+    400142: QuickRigCharacter_Ctrl_RightFoot
+    400144: QuickRigCharacter_Ctrl_RightFootEffector
+    400146: QuickRigCharacter_Ctrl_RightForeArm
+    400148: QuickRigCharacter_Ctrl_RightHand
+    400150: QuickRigCharacter_Ctrl_RightHipEffector
+    400152: QuickRigCharacter_Ctrl_RightKneeEffector
+    400154: QuickRigCharacter_Ctrl_RightLeg
+    400156: QuickRigCharacter_Ctrl_RightShoulder
+    400158: QuickRigCharacter_Ctrl_RightShoulderEffector
+    400160: QuickRigCharacter_Ctrl_RightToeBase
+    400162: QuickRigCharacter_Ctrl_RightUpLeg
+    400164: QuickRigCharacter_Ctrl_RightWristEffector
+    400166: QuickRigCharacter_Ctrl_Spine
+    400168: QuickRigCharacter_Ctrl_Spine1
+    400170: QuickRigCharacter_Ctrl_Spine2
+    400172: QuickRigCharacter_Guides
+    400174: QuickRigCharacter_Head
+    400176: QuickRigCharacter_Hips
+    400178: QuickRigCharacter_LeftArm
+    400180: QuickRigCharacter_LeftFoot
+    400182: QuickRigCharacter_LeftForeArm
+    400184: QuickRigCharacter_LeftHand
+    400186: QuickRigCharacter_LeftLeg
+    400188: QuickRigCharacter_LeftShoulder
+    400190: QuickRigCharacter_LeftToeBase
+    400192: QuickRigCharacter_LeftUpLeg
+    400194: QuickRigCharacter_Neck
+    400196: QuickRigCharacter_Reference
+    400198: QuickRigCharacter_RightArm
+    400200: QuickRigCharacter_RightFoot
+    400202: QuickRigCharacter_RightForeArm
+    400204: QuickRigCharacter_RightHand
+    400206: QuickRigCharacter_RightLeg
+    400208: QuickRigCharacter_RightShoulder
+    400210: QuickRigCharacter_RightToeBase
+    400212: QuickRigCharacter_RightUpLeg
+    400214: QuickRigCharacter_Spine
+    400216: QuickRigCharacter_Spine1
+    400218: QuickRigCharacter_Spine2
+    400220: Reference
+    400222: RightArm
+    400224: RightFoot
+    400226: RightForeArm
+    400228: RightHand
+    400230: RightLeg
+    400232: RightShoulder
+    400234: RightToeBase
+    400236: RightUpLeg
+    400238: Spine
+    400240: Spine1
+    400242: Spine2
+    400244: //RootNode
+    400246: transform1
+    400248: transform10
+    400250: transform11
+    400252: transform12
+    400254: transform13
+    400256: transform14
+    400258: transform15
+    400260: transform16
+    400262: transform17
+    400264: transform18
+    400266: transform19
+    400268: transform2
+    400270: transform20
+    400272: transform21
+    400274: transform22
+    400276: transform23
+    400278: transform24
+    400280: transform25
+    400282: transform26
+    400284: transform27
+    400286: transform28
+    400288: transform29
+    400290: transform3
+    400292: transform30
+    400294: transform31
+    400296: transform4
+    400298: transform5
+    400300: transform6
+    400302: transform7
+    400304: transform8
+    400306: transform9
+    2300000: pCylinder5
+    3300000: pCylinder5
+    4300000: pCylinder5
+    4300002: pCylinder19
+    9500000: //RootNode
+    13700000: pCylinder19
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong1
+    second: {fileID: 2100000, guid: 35d8482f4802a9145ab35aa6b66a663b, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths:
+    - QuickRigCharacter_Ctrl_Reference/QuickRigCharacter_Ctrl_Hips/QuickRigCharacter_Ctrl_Spine/QuickRigCharacter_Ctrl_Spine1/QuickRigCharacter_Ctrl_Spine2/QuickRigCharacter_Ctrl_RightShoulder/QuickRigCharacter_Ctrl_RightArm/QuickRigCharacter_Ctrl_RightForeArm/QuickRigCharacter_Ctrl_RightHand
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: QuickRigCharacter_Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: QuickRigCharacter_LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: QuickRigCharacter_RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: QuickRigCharacter_LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: QuickRigCharacter_RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: QuickRigCharacter_LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: QuickRigCharacter_RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: QuickRigCharacter_Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: QuickRigCharacter_Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: QuickRigCharacter_Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: QuickRigCharacter_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: QuickRigCharacter_LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: QuickRigCharacter_RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: QuickRigCharacter_LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: QuickRigCharacter_RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: QuickRigCharacter_LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: QuickRigCharacter_RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: QuickRigCharacter_LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: QuickRigCharacter_RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: QuickRigCharacter_LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: QuickRigCharacter_RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: QuickRigCharacter_Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Test(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: imagePlane1
+      parentName: Test(Clone)
+      position: {x: 0.00013877044, y: -0.0008141919, z: -0.00013981}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCylinder1
+      parentName: Test(Clone)
+      position: {x: -0.09897818, y: 0.03067557, z: -0.0022701565}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.8277777, y: 3.5887406, z: 1}
+    - name: transform13
+      parentName: pCylinder1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCylinder4
+      parentName: Test(Clone)
+      position: {x: 0.03612996, y: -0.0050726198, z: 0.019932862}
+      rotation: {x: 0.000012422287, y: -0.00000093905356, z: -0.0138466675, w: 0.99990416}
+      scale: {x: 0.34444445, y: 0.49496314, z: 0.47136328}
+    - name: transform2
+      parentName: pCylinder4
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCylinder5
+      parentName: Test(Clone)
+      position: {x: 0.018695498, y: -0.008670377, z: 0}
+      rotation: {x: 0, y: -0, z: -0.45066798, w: 0.8926917}
+      scale: {x: 0.31861115, y: 0.3830876, z: 1}
+    - name: pCylinder6
+      parentName: Test(Clone)
+      position: {x: 0.027012367, y: -0.0029354885, z: 0.010454173}
+      rotation: {x: 0.1419421, y: 0.2373643, z: 0.043435488, w: 0.9600125}
+      scale: {x: 0.13287036, y: 0.26111108, z: 0.10594746}
+    - name: transform1
+      parentName: pCylinder6
+      position: {x: -0.00037701137, y: -0.0009912681, z: -0.017428134}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCylinder7
+      parentName: Test(Clone)
+      position: {x: -0.07156844, y: 0.017966624, z: 0.044977125}
+      rotation: {x: 0.0045573153, y: 0.0491219, z: -0.00003967471, w: 0.9987824}
+      scale: {x: 0.9132047, y: 4.3672166, z: 0.89448607}
+    - name: transform25
+      parentName: pCylinder7
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCylinder10
+      parentName: Test(Clone)
+      position: {x: 0.027391221, y: 0.031472813, z: 0.031842}
+      rotation: {x: 0.000014477185, y: 0.0000003251744, z: 0.08235815, w: 0.9966028}
+      scale: {x: 0.49230155, y: 2.7064815, z: 0.47136328}
+    - name: transform12
+      parentName: pCylinder10
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCylinder11
+      parentName: Test(Clone)
+      position: {x: 0.03756734, y: -0.012984938, z: 0.020099113}
+      rotation: {x: -0.0000022504798, y: 0.00000022162705, z: -0.09800582, w: 0.99518585}
+      scale: {x: 0.1686704, y: 0.21944444, z: 0.47136328}
+    - name: transform9
+      parentName: pCylinder11
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCylinder12
+      parentName: Test(Clone)
+      position: {x: 0.03641402, y: -0.0050953925, z: 0.020965636}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface1
+      parentName: pCylinder12
+      position: {x: -0.03641402, y: 0.0050953925, z: -0.020965636}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform4
+      parentName: polySurface1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface2 1
+      parentName: pCylinder12
+      position: {x: -0.036316153, y: -0.0045593227, z: -0.021360697}
+      rotation: {x: -0.2027152, y: 0, z: -0, w: 0.97923774}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform5
+      parentName: polySurface2 1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform3
+      parentName: pCylinder12
+      position: {x: -0.03641402, y: 0.0050953925, z: -0.020965636}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCylinder13
+      parentName: Test(Clone)
+      position: {x: -0.070334196, y: 0.0269026, z: 0.04819441}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform21
+      parentName: pCylinder13
+      position: {x: -0.027447183, y: -0.025828676, z: -0.03327517}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCylinder14
+      parentName: Test(Clone)
+      position: {x: -0.1295063, y: 0.026714392, z: -0.00286901}
+      rotation: {x: -0.00064639933, y: -0.006221179, z: -0.037032194, w: 0.9992945}
+      scale: {x: -1, y: 1, z: 1}
+    - name: transform14
+      parentName: pCylinder14
+      position: {x: -0.027447183, y: -0.025828676, z: -0.03327517}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCylinder15
+      parentName: Test(Clone)
+      position: {x: -0.108975425, y: 0.029145006, z: -0.0034757894}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface6 1
+      parentName: pCylinder15
+      position: {x: 0.10912699, y: -0.028835174, z: 0.0034757894}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform17
+      parentName: polySurface6 1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface7
+      parentName: pCylinder15
+      position: {x: 0.108975425, y: -0.029145006, z: 0.0034757894}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform16
+      parentName: polySurface7
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface8 1
+      parentName: pCylinder15
+      position: {x: 0.108975425, y: -0.029145006, z: 0.025780626}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform19
+      parentName: polySurface8 1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform15
+      parentName: pCylinder15
+      position: {x: 0.108975425, y: -0.029145006, z: 0.0034757894}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCylinder16
+      parentName: Test(Clone)
+      position: {x: -0.10089071, y: 0.029560568, z: 0.04643427}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface9 1
+      parentName: pCylinder16
+      position: {x: 0.101050764, y: -0.030021304, z: -0.04643427}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform24
+      parentName: polySurface9 1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface10
+      parentName: pCylinder16
+      position: {x: 0.10089071, y: -0.029560568, z: -0.04643427}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform30
+      parentName: polySurface10
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface11
+      parentName: pCylinder16
+      position: {x: 0.10089071, y: -0.029560568, z: -0.04643427}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform23
+      parentName: polySurface11
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform22
+      parentName: pCylinder16
+      position: {x: 0.10089071, y: -0.029560568, z: -0.04643427}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCylinder17
+      parentName: Test(Clone)
+      position: {x: -0.089165926, y: 0.017960379, z: 0.045125592}
+      rotation: {x: 0.0046646153, y: -0.030649828, z: -0.0022984287, w: 0.99951667}
+      scale: {x: -0.9132047, y: 4.3672166, z: 0.89448607}
+    - name: transform28
+      parentName: pCylinder17
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCylinder18
+      parentName: Test(Clone)
+      position: {x: -0.09589044, y: 0.052222773, z: 0.047271006}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform31
+      parentName: pCylinder18
+      position: {x: 0.08184804, y: -0.052222773, z: -0.047271006}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCylinder19
+      parentName: Test(Clone)
+      position: {x: 0.09498706, y: -0.004428465, z: -0.060343247}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.6626575, y: 0.6626575, z: 0.6626575}
+    - name: polySurface2
+      parentName: Test(Clone)
+      position: {x: 0.036423836, y: -0.0050941883, z: 0.021065515}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface3 1
+      parentName: polySurface2
+      position: {x: -0.035979234, y: 0.005030436, z: -0.020629842}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform8
+      parentName: polySurface3 1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface4
+      parentName: polySurface2
+      position: {x: -0.036423836, y: 0.0050941883, z: -0.021065515}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform7
+      parentName: polySurface4
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform6
+      parentName: polySurface2
+      position: {x: -0.036423836, y: 0.0050941883, z: -0.021065515}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface3
+      parentName: Test(Clone)
+      position: {x: 0.036423836, y: -0.0050941883, z: 0.020854779}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform10
+      parentName: polySurface3
+      position: {x: -0.036423836, y: 0.0050941883, z: -0.020854779}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface5
+      parentName: Test(Clone)
+      position: {x: 0.034170855, y: -0.0024368218, z: 0.03429528}
+      rotation: {x: 0, y: 0, z: 0.051089343, w: 0.99869406}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform11
+      parentName: polySurface5
+      position: {x: -0.036423836, y: 0.007733887, z: -0.020997569}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface6
+      parentName: Test(Clone)
+      position: {x: -0.10860255, y: 0.02997699, z: 0.018839026}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform18
+      parentName: polySurface6
+      position: {x: 0.10860255, y: -0.02997699, z: 0.003475789}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface8
+      parentName: Test(Clone)
+      position: {x: -0.10860544, y: 0.02997699, z: 0.04643427}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform20
+      parentName: polySurface8
+      position: {x: 0.10860256, y: -0.02997699, z: -0.018839026}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface9
+      parentName: Test(Clone)
+      position: {x: -0.08184804, y: 0.08832918, z: 0.04643427}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.8888889, y: 1, z: 1}
+    - name: transform26
+      parentName: polySurface9
+      position: {x: 0.100810684, y: -0.0293302, z: -0.04643427}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface12
+      parentName: Test(Clone)
+      position: {x: -0.08184804, y: 0.05224411, z: 0.04731573}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform27
+      parentName: polySurface12
+      position: {x: 0.08184804, y: -0.05224411, z: -0.04731573}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pSphere1
+      parentName: Test(Clone)
+      position: {x: -0.09419486, y: 0.13679276, z: 0.04741712}
+      rotation: {x: 0.041417703, y: -0, z: -0, w: 0.99914193}
+      scale: {x: 0.9265018, y: 1.156028, z: 0.9551843}
+    - name: transform29
+      parentName: pSphere1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QuickRigCharacter_Ctrl_Reference
+      parentName: Test(Clone)
+      position: {x: 0.00004142046, y: 0.0009228957, z: -0.013697841}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QuickRigCharacter_Ctrl_ChestEndEffector
+      parentName: QuickRigCharacter_Ctrl_Reference
+      position: {x: -0, y: 0.092747755, z: 0.00003980398}
+      rotation: {x: 0.000046134573, y: -2.2351703e-21, z: -1.1102512e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QuickRigCharacter_Ctrl_ChestOriginEffector
+      parentName: QuickRigCharacter_Ctrl_Reference
+      position: {x: -0, y: 0.06431964, z: -0.00053977605}
+      rotation: {x: 0.000022653472, y: 1.1100514e-16, z: -1.0913516e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QuickRigCharacter_Ctrl_HeadEffector
+      parentName: QuickRigCharacter_Ctrl_Reference
+      position: {x: 0.0032208469, y: 0.10495475, z: 0.0007481998}
+      rotation: {x: -0.000019192714, y: 0.0080432575, z: -0.0000067708565, w: 0.9999677}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QuickRigCharacter_Ctrl_Hips
+      parentName: QuickRigCharacter_Ctrl_Reference
+      position: {x: 0.0032536401, y: 0.05754302, z: -0.00086025475}
+      rotation: {x: 1.4163847e-16, y: 1.110223e-16, z: -1.5725029e-32, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QuickRigCharacter_Ctrl_LeftUpLeg
+      parentName: QuickRigCharacter_Ctrl_Hips
+      position: {x: -0.0067384243, y: -0.0016503858, z: 0.00040045974}
+      rotation: {x: 0.010656508, y: 0.0010284515, z: -0.015189186, w: 0.9998273}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QuickRigCharacter_Ctrl_LeftLeg
+      parentName: QuickRigCharacter_Ctrl_LeftUpLeg
+      position: {x: -0, y: -0.0275389, z: 0}
+      rotation: {x: 0.0033863443, y: -0.032593384, z: -0.0001117858, w: 0.99946296}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QuickRigCharacter_Ctrl_LeftFoot
+      parentName: QuickRigCharacter_Ctrl_LeftLeg
+      position: {x: -0, y: -0.02426775, z: 0}
+      rotation: {x: -0.011601455, y: -0.021085113, z: -0.013572655, w: 0.9996183}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QuickRigCharacter_Ctrl_LeftToeBase
+      parentName: QuickRigCharacter_Ctrl_LeftFoot
+      position: {x: -0.000000002980232, y: -0.0027257185, z: 0.0048397062}
+      rotation: {x: 3.469142e-32, y: -0, z: -1.2246469e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QuickRigCharacter_Ctrl_RightUpLeg
+      parentName: QuickRigCharacter_Ctrl_Hips
+      position: {x: 0.0067384243, y: -0.0016503858, z: 0.00040045974}
+      rotation: {x: 0.005561893, y: -0.14655317, z: 0.011850311, w: 0.9891162}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QuickRigCharacter_Ctrl_RightLeg
+      parentName: QuickRigCharacter_Ctrl_RightUpLeg
+      position: {x: 0.0000000017881393, y: -0.0275389, z: 0.000000269413}
+      rotation: {x: 0.00043899097, y: 0.10763633, z: 0.00072181335, w: 0.99419}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QuickRigCharacter_Ctrl_RightFoot
+      parentName: QuickRigCharacter_Ctrl_RightLeg
+      position: {x: -5.9604643e-10, y: -0.02426775, z: 0}
+      rotation: {x: -0.016318882, y: 0.0717247, z: -0.0026203282, w: 0.9972876}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QuickRigCharacter_Ctrl_RightToeBase
+      parentName: QuickRigCharacter_Ctrl_RightFoot
+      position: {x: 0.00000040531157, y: -0.0027257185, z: 0.0048397062}
+      rotation: {x: -0.000000028609021, y: -0.10361236, z: -0.00000006668794, w: 0.99461776}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QuickRigCharacter_Ctrl_Spine
+      parentName: QuickRigCharacter_Ctrl_Hips
+      position: {x: -0, y: 0.006776619, z: 0.00032047866}
+      rotation: {x: 1.2316537e-16, y: 2.4950815e-21, z: -1.1101155e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QuickRigCharacter_Ctrl_Spine1
+      parentName: QuickRigCharacter_Ctrl_Spine
+      position: {x: -0, y: 0.006785116, z: 0.00011558771}
+      rotation: {x: 1.7347235e-18, y: 1.11006196e-16, z: 1.1291334e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QuickRigCharacter_Ctrl_Spine2
+      parentName: QuickRigCharacter_Ctrl_Spine1
+      position: {x: -0, y: 0.0067851115, z: 0.00011558771}
+      rotation: {x: -2.0296265e-16, y: -2.345953e-22, z: -1.11011595e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QuickRigCharacter_Ctrl_LeftShoulder
+      parentName: QuickRigCharacter_Ctrl_Spine2
+      position: {x: -0.005380182, y: 0.014857893, z: 0.00034840463}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QuickRigCharacter_Ctrl_LeftArm
+      parentName: QuickRigCharacter_Ctrl_LeftShoulder
+      position: {x: -0.008070273, y: 0, z: 0}
+      rotation: {x: 0.3491564, y: 0.13793007, z: 0.5888381, w: 0.71577567}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QuickRigCharacter_Ctrl_LeftForeArm
+      parentName: QuickRigCharacter_Ctrl_LeftArm
+      position: {x: -0.015243055, y: 0, z: 0}
+      rotation: {x: 0.000008227076, y: 0.16622998, z: -0.0000014586504, w: 0.986087}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QuickRigCharacter_Ctrl_LeftHand
+      parentName: QuickRigCharacter_Ctrl_LeftForeArm
+      position: {x: -0.020040188, y: 0, z: 0}
+      rotation: {x: -0.000003576513, y: -0.00000015992988, z: 0.0000008964731, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QuickRigCharacter_Ctrl_Neck
+      parentName: QuickRigCharacter_Ctrl_Spine2
+      position: {x: -0, y: 0.020201959, z: 0.0004425466}
+      rotation: {x: -6.938894e-18, y: 1.2840239e-19, z: -2.2034784e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QuickRigCharacter_Ctrl_Head
+      parentName: QuickRigCharacter_Ctrl_Neck
+      position: {x: -0, y: 0.00686285, z: 0.0006166863}
+      rotation: {x: 1.4163847e-16, y: 1.110223e-16, z: -1.5725029e-32, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QuickRigCharacter_Ctrl_RightShoulder
+      parentName: QuickRigCharacter_Ctrl_Spine2
+      position: {x: 0.005380182, y: 0.014857893, z: 0.00034840463}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QuickRigCharacter_Ctrl_RightArm
+      parentName: QuickRigCharacter_Ctrl_RightShoulder
+      position: {x: 0.008070273, y: 0, z: 0}
+      rotation: {x: 0.5125084, y: 0.17115687, z: -0.50452673, w: 0.67341906}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QuickRigCharacter_Ctrl_RightForeArm
+      parentName: QuickRigCharacter_Ctrl_RightArm
+      position: {x: 0.015243055, y: 1.7763568e-17, z: 0}
+      rotation: {x: 0.0000007841315, y: -0.7355317, z: -0.0000048796874, w: 0.67749035}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QuickRigCharacter_Ctrl_RightHand
+      parentName: QuickRigCharacter_Ctrl_RightForeArm
+      position: {x: 0.020040188, y: -1.7763568e-17, z: -2.220446e-18}
+      rotation: {x: -0.46310586, y: 0.15419021, z: 0.275714, w: 0.8280943}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QuickRigCharacter_Ctrl_HipsEffector
+      parentName: QuickRigCharacter_Ctrl_Reference
+      position: {x: 0.00325364, y: 0.05589263, z: -0.00045979497}
+      rotation: {x: 1.4163847e-16, y: 2.7415802e-32, z: -1.110223e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QuickRigCharacter_Ctrl_LeftAnkleEffector
+      parentName: QuickRigCharacter_Ctrl_Reference
+      position: {x: -0.0051814043, y: 0.0041293, z: -0.001726263}
+      rotation: {x: 0.0018400128, y: -0.05050682, z: -0.029880438, w: 0.9982749}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QuickRigCharacter_Ctrl_LeftElbowEffector
+      parentName: QuickRigCharacter_Ctrl_Reference
+      position: {x: -0.01754307, y: 0.0784304, z: -0.0032182382}
+      rotation: {x: 0.24849875, y: 0.25301096, z: 0.63741416, w: 0.6840592}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QuickRigCharacter_Ctrl_LeftFootEffector
+      parentName: QuickRigCharacter_Ctrl_Reference
+      position: {x: -0.0058552735, y: 0.0014035979, z: 0.0030663155}
+      rotation: {x: 0.0018400127, y: -0.050506815, z: -0.029880438, w: 0.9982749}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QuickRigCharacter_Ctrl_LeftHipEffector
+      parentName: QuickRigCharacter_Ctrl_Reference
+      position: {x: -0.0034875257, y: 0.05589263, z: -0.00045979497}
+      rotation: {x: 0.01072765, y: 0.002084783, z: -0.015601684, w: 0.99981856}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QuickRigCharacter_Ctrl_LeftKneeEffector
+      parentName: QuickRigCharacter_Ctrl_Reference
+      position: {x: -0.0043877657, y: 0.028374586, z: -0.0010455266}
+      rotation: {x: 0.013675972, y: -0.029739339, z: -0.016054891, w: 0.99933517}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QuickRigCharacter_Ctrl_LeftShoulderEffector
+      parentName: QuickRigCharacter_Ctrl_Reference
+      position: {x: -0.013450455, y: 0.092747755, z: 0.00003980398}
+      rotation: {x: 0.34693584, y: 0.1404532, z: 0.58962315, w: 0.7157185}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QuickRigCharacter_Ctrl_LeftWristEffector
+      parentName: QuickRigCharacter_Ctrl_Reference
+      position: {x: -0.018627571, y: 0.058430836, z: -0.0025468755}
+      rotation: {x: 0.24849667, y: 0.25300837, z: 0.63741565, w: 0.68405956}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QuickRigCharacter_Ctrl_RightAnkleEffector
+      parentName: QuickRigCharacter_Ctrl_Reference
+      position: {x: 0.008075584, y: 0.0041047777, z: -0.0008591938}
+      rotation: {x: -0.012602892, y: 0.038900297, z: 0.010534821, w: 0.9991081}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QuickRigCharacter_Ctrl_RightElbowEffector
+      parentName: QuickRigCharacter_Ctrl_Reference
+      position: {x: 0.023293924, y: 0.08506405, z: -0.011356968}
+      rotation: {x: -0.023389941, y: -0.3824497, z: -0.7190741, w: 0.57975656}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QuickRigCharacter_Ctrl_RightFootEffector
+      parentName: QuickRigCharacter_Ctrl_Reference
+      position: {x: 0.00844523, y: 0.0015053287, z: 0.0040355525}
+      rotation: {x: -0.0114435535, y: -0.06482903, z: 0.011783871, w: 0.9977612}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QuickRigCharacter_Ctrl_RightHipEffector
+      parentName: QuickRigCharacter_Ctrl_Reference
+      position: {x: 0.0067384243, y: 0.05589263, z: -0.00045979497}
+      rotation: {x: 0.004662466, y: -0.13975962, z: 0.01205873, w: 0.9901011}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QuickRigCharacter_Ctrl_RightKneeEffector
+      parentName: QuickRigCharacter_Ctrl_Reference
+      position: {x: 0.007428762, y: 0.028363084, z: -0.0006620371}
+      rotation: {x: 0.0035340118, y: -0.032544926, z: 0.013159309, w: 0.99937737}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QuickRigCharacter_Ctrl_RightShoulderEffector
+      parentName: QuickRigCharacter_Ctrl_Reference
+      position: {x: 0.016704094, y: 0.092747755, z: 0.00003977656}
+      rotation: {x: 0.51731175, y: 0.17255206, z: -0.50186324, w: 0.6713774}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QuickRigCharacter_Ctrl_RightWristEffector
+      parentName: QuickRigCharacter_Ctrl_Reference
+      position: {x: 0.016858522, y: 0.06865668, z: -0.0018179297}
+      rotation: {x: -0.28560683, y: 0.117617294, z: -0.6132285, w: 0.7270115}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QuickRigCharacter_Guides
+      parentName: Test(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Head
+      parentName: QuickRigCharacter_Guides
+      position: {x: 0.00004142046, y: 0.10541665, z: -0.012947208}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hips
+      parentName: QuickRigCharacter_Guides
+      position: {x: 0.00004142046, y: 0.058004994, z: -0.0145580955}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftArm
+      parentName: QuickRigCharacter_Guides
+      position: {x: -0.013409035, y: 0.09320973, z: -0.0136580365}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftFoot
+      parentName: QuickRigCharacter_Guides
+      position: {x: -0.0051262877, y: 0.0045879534, z: -0.015435458}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftForeArm
+      parentName: QuickRigCharacter_Guides
+      position: {x: -0.01712865, y: 0.07842748, z: -0.013647959}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftHand
+      parentName: QuickRigCharacter_Guides
+      position: {x: -0.022425637, y: 0.05911512, z: -0.012883829}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftLeg
+      parentName: QuickRigCharacter_Guides
+      position: {x: -0.005959203, y: 0.028833162, z: -0.01480309}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftShoulder
+      parentName: QuickRigCharacter_Guides
+      position: {x: -0.0053387615, y: 0.09320973, z: -0.0136580365}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftToeBase
+      parentName: QuickRigCharacter_Guides
+      position: {x: -0.005800156, y: 0.0018622349, z: -0.010642895}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftUpLeg
+      parentName: QuickRigCharacter_Guides
+      position: {x: -0.0066970037, y: 0.05635461, z: -0.014157636}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Neck
+      parentName: QuickRigCharacter_Guides
+      position: {x: 0.00004142046, y: 0.0985538, z: -0.013563895}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Reference
+      parentName: QuickRigCharacter_Guides
+      position: {x: 0.00004142046, y: 0.0009228957, z: -0.013697841}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightArm
+      parentName: QuickRigCharacter_Guides
+      position: {x: 0.0134918755, y: 0.09320973, z: -0.0136580365}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightFoot
+      parentName: QuickRigCharacter_Guides
+      position: {x: 0.005209129, y: 0.0045879534, z: -0.015435458}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightForeArm
+      parentName: QuickRigCharacter_Guides
+      position: {x: 0.017211491, y: 0.07842748, z: -0.013647959}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightHand
+      parentName: QuickRigCharacter_Guides
+      position: {x: 0.022508478, y: 0.05911512, z: -0.012883829}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightLeg
+      parentName: QuickRigCharacter_Guides
+      position: {x: 0.006042044, y: 0.028833162, z: -0.01480309}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightShoulder
+      parentName: QuickRigCharacter_Guides
+      position: {x: 0.0054216026, y: 0.09320973, z: -0.0136580365}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightToeBase
+      parentName: QuickRigCharacter_Guides
+      position: {x: 0.0058829966, y: 0.0018622349, z: -0.010642895}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightUpLeg
+      parentName: QuickRigCharacter_Guides
+      position: {x: 0.0067798444, y: 0.05635461, z: -0.014157636}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Spine
+      parentName: QuickRigCharacter_Guides
+      position: {x: 0.00004142046, y: 0.06478161, z: -0.014237617}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Spine1
+      parentName: QuickRigCharacter_Guides
+      position: {x: 0.00004142046, y: 0.07156673, z: -0.014122029}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Spine2
+      parentName: QuickRigCharacter_Guides
+      position: {x: 0.00004142046, y: 0.07835184, z: -0.014006441}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QuickRigCharacter_Reference
+      parentName: Test(Clone)
+      position: {x: 0.00004142046, y: 0.0009228957, z: -0.013697841}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: QuickRigCharacter_Hips
+      parentName: QuickRigCharacter_Reference
+      position: {x: -0.00004142069, y: 0.05754302, z: 0.013297382}
+      rotation: {x: 0.51167357, y: -0.48804736, z: -0.5116735, w: 0.48804736}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000005}
+    - name: QuickRigCharacter_LeftUpLeg
+      parentName: QuickRigCharacter_Hips
+      position: {x: 0.0016296259, y: 0.0004779754, z: 0.0067384243}
+      rotation: {x: -0.015152393, y: -0.0009611248, z: -0.9997982, w: 0.013155101}
+      scale: {x: 1.0000005, y: 0.99999994, z: 1}
+    - name: QuickRigCharacter_LeftLeg
+      parentName: QuickRigCharacter_LeftUpLeg
+      position: {x: -0.027538903, y: 0.00000031561322, z: 0.000000006345547}
+      rotation: {x: -0.03248117, y: 0.00012683375, z: -0.003904188, w: 0.99946475}
+      scale: {x: 1.0000002, y: 1.0000005, z: 1.0000004}
+    - name: QuickRigCharacter_LeftFoot
+      parentName: QuickRigCharacter_LeftLeg
+      position: {x: -0.024267752, y: -0.0000000040224015, z: -0.0000000038273718}
+      rotation: {x: 0.0033981386, y: 0.048684917, z: 0.5164609, w: 0.85491896}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: QuickRigCharacter_LeftToeBase
+      parentName: QuickRigCharacter_LeftFoot
+      position: {x: -0.00555449, y: 1.5359222e-10, z: 0.0000000028425697}
+      rotation: {x: 0.0000000018626447, y: -0, z: -0.00000003523018, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: QuickRigCharacter_RightUpLeg
+      parentName: QuickRigCharacter_Hips
+      position: {x: 0.0016296259, y: 0.0004779754, z: -0.0067384243}
+      rotation: {x: -0.0009583086, y: 0.015150726, z: -0.013256863, w: -0.9997969}
+      scale: {x: 1.0000002, y: 0.9999997, z: 1.0000002}
+    - name: QuickRigCharacter_RightLeg
+      parentName: QuickRigCharacter_RightUpLeg
+      position: {x: 0.027538907, y: -0.0000015497657, z: 0.00000050118376}
+      rotation: {x: 0.032465015, y: -0.00013057979, z: 0.0041471515, w: -0.99946433}
+      scale: {x: 1.0000002, y: 1.0000008, z: 1.0000006}
+    - name: QuickRigCharacter_RightFoot
+      parentName: QuickRigCharacter_RightLeg
+      position: {x: 0.024267744, y: -0.0000000031119178, z: 0.0000000043022084}
+      rotation: {x: 0.0033747884, y: 0.048687365, z: 0.5165793, w: 0.8548474}
+      scale: {x: 1.0000006, y: 1, z: 1.0000002}
+    - name: QuickRigCharacter_RightToeBase
+      parentName: QuickRigCharacter_RightFoot
+      position: {x: 0.005554487, y: -2.5348523e-10, z: 5.527591e-10}
+      rotation: {x: 0.000025373412, y: -0.00000010803339, z: 0.000000065876506, w: 1}
+      scale: {x: 1.0000005, y: 1, z: 1.0000006}
+    - name: QuickRigCharacter_Spine
+      parentName: QuickRigCharacter_Hips
+      position: {x: -0.0067841928, y: -4.7854315e-10, z: -1.110223e-18}
+      rotation: {x: -0, y: -0, z: 0.0151108205, w: 0.99988586}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.9999997}
+    - name: QuickRigCharacter_Spine1
+      parentName: QuickRigCharacter_Spine
+      position: {x: -0.0067861006, y: 1.410466e-10, z: -2.220446e-18}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1}
+    - name: QuickRigCharacter_Spine2
+      parentName: QuickRigCharacter_Spine1
+      position: {x: -0.006786096, y: 2.2226622e-10, z: -1.6653345e-18}
+      rotation: {x: -0.000000030699596, y: -0.000000059147503, z: -0.0024343077, w: 0.9999971}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1.0000004}
+    - name: QuickRigCharacter_LeftShoulder
+      parentName: QuickRigCharacter_Spine2
+      position: {x: -0.014861959, y: 0.000022920456, z: 0.005380182}
+      rotation: {x: -0.50544554, y: 0.49449453, z: 0.5054456, w: 0.49449453}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1.0000002}
+    - name: QuickRigCharacter_LeftArm
+      parentName: QuickRigCharacter_LeftShoulder
+      position: {x: -0.008070273, y: 0, z: -2.220446e-18}
+      rotation: {x: 0.71368873, y: 0.007714805, z: 0.0076104077, w: 0.70037913}
+      scale: {x: 1.0000001, y: 0.9999994, z: 1.0000005}
+    - name: QuickRigCharacter_LeftForeArm
+      parentName: QuickRigCharacter_LeftArm
+      position: {x: -0.015243067, y: 6.404041e-10, z: 0.0000000011905755}
+      rotation: {x: -0.00000005960463, y: -0.0000010579822, z: -0.021529088, w: 0.9997682}
+      scale: {x: 0.9999999, y: 1, z: 0.9999998}
+    - name: QuickRigCharacter_LeftHand
+      parentName: QuickRigCharacter_LeftForeArm
+      position: {x: -0.020040182, y: 0.0000000014604927, z: -0.0000000059809753}
+      rotation: {x: 0.00000008649897, y: 0.00000013600406, z: 0.000000013038459, w: 1}
+      scale: {x: 1.0000004, y: 1.0000006, z: 1.0000011}
+    - name: QuickRigCharacter_RightShoulder
+      parentName: QuickRigCharacter_Spine2
+      position: {x: -0.014861959, y: 0.000022920456, z: -0.005380182}
+      rotation: {x: 0.49449453, y: 0.5054456, z: -0.49449453, w: 0.50544554}
+      scale: {x: 1.0000004, y: 1.0000012, z: 1.0000012}
+    - name: QuickRigCharacter_RightArm
+      parentName: QuickRigCharacter_RightShoulder
+      position: {x: 0.008070272, y: 0, z: 0}
+      rotation: {x: -0.71368814, y: -0.0077148844, z: -0.0076101855, w: -0.7003798}
+      scale: {x: 0.9999999, y: 1.0000001, z: 1.0000005}
+    - name: QuickRigCharacter_RightForeArm
+      parentName: QuickRigCharacter_RightArm
+      position: {x: 0.01524306, y: -6.9918976e-10, z: 0.0000000044165933}
+      rotation: {x: -0.000000059604638, y: 0.0000011473893, z: -0.021527825, w: 0.9997683}
+      scale: {x: 1.000001, y: 1.0000005, z: 1.0000005}
+    - name: QuickRigCharacter_RightHand
+      parentName: QuickRigCharacter_RightForeArm
+      position: {x: 0.02004019, y: -9.093352e-10, z: -1.0919648e-10}
+      rotation: {x: 0.00000004326768, y: -0.0000006250621, z: 0.0000007767229, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 1.0000019}
+    - name: QuickRigCharacter_Neck
+      parentName: QuickRigCharacter_Spine2
+      position: {x: -0.020206805, y: 1.864356e-10, z: -4.9960034e-18}
+      rotation: {x: 0.0000000016444479, y: -0.000000030800326, z: 0.033851195, w: -0.9994269}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1.000001}
+    - name: QuickRigCharacter_Head
+      parentName: QuickRigCharacter_Neck
+      position: {x: -0.006890502, y: -3.2992442e-11, z: -1.110223e-18}
+      rotation: {x: -0, y: -0, z: 5.0649523e-17, w: 1}
+      scale: {x: 0.99999976, y: 0.9999998, z: 1.0000001}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
