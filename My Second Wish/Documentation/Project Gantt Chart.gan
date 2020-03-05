@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><project name="Untitled Gantt Project" company="" webLink="http://" view-date="2019-01-11" view-index="0" gantt-divider-location="512" resource-divider-location="300" version="2.8.9" locale="en_GB">
+    <description/>
+    <view zooming-state="default:0" id="gantt-chart">
+        <field id="tpd3" name="Name" width="342" order="0"/>
+        <field id="tpd4" name="Begin date" width="75" order="1"/>
+        <field id="tpd5" name="End date" width="76" order="2"/>
+    </view>
+    <view id="resource-table">
+        <field id="0" name="Name" width="210" order="0"/>
+        <field id="1" name="Default role" width="86" order="1"/>
+    </view>
+    <!-- -->
+    <calendars>
+        <day-types>
+            <day-type id="0"/>
+            <day-type id="1"/>
+            <default-week id="1" name="default" sun="1" mon="0" tue="0" wed="0" thu="0" fri="0" sat="1"/>
+            <only-show-weekends value="false"/>
+            <overriden-day-types/>
+            <days/>
+        </day-types>
+    </calendars>
+    <tasks empty-milestones="true">
+        <taskproperties>
+            <taskproperty id="tpd0" name="type" type="default" valuetype="icon"/>
+            <taskproperty id="tpd1" name="priority" type="default" valuetype="icon"/>
+            <taskproperty id="tpd2" name="info" type="default" valuetype="icon"/>
+            <taskproperty id="tpd3" name="name" type="default" valuetype="text"/>
+            <taskproperty id="tpd4" name="begindate" type="default" valuetype="date"/>
+            <taskproperty id="tpd5" name="enddate" type="default" valuetype="date"/>
+            <taskproperty id="tpd6" name="duration" type="default" valuetype="int"/>
+            <taskproperty id="tpd7" name="completion" type="default" valuetype="int"/>
+            <taskproperty id="tpd8" name="coordinator" type="default" valuetype="text"/>
+            <taskproperty id="tpd9" name="predecessorsr" type="default" valuetype="text"/>
+        </taskproperties>
+        <task id="0" name="Build forest portion of World" color="#8cb6ce" meeting="false" start="2018-10-15" duration="7" complete="0" thirdDate="2018-09-24" thirdDate-constraint="0" expand="true">
+            <task id="28" name="Create Forest portion of the world" color="#8cb6ce" meeting="false" start="2018-10-15" duration="7" complete="0" thirdDate="2018-09-26" thirdDate-constraint="0" expand="true"/>
+            <task id="34" name="Create forest region instance" color="#8cb6ce" meeting="false" start="2018-10-18" duration="4" complete="0" thirdDate="2018-09-26" thirdDate-constraint="0" expand="true"/>
+            <task id="98" name="Complete Forest Region" color="#8cb6ce" meeting="true" start="2018-10-24" duration="0" complete="0" thirdDate="2018-10-11" thirdDate-constraint="0" expand="true"/>
+        </task>
+        <task id="2" name="Build Grassy Plains region of the World" color="#8cb6ce" meeting="false" start="2018-10-22" duration="7" complete="0" thirdDate="2018-09-24" thirdDate-constraint="0" expand="true">
+            <task id="38" name="Design Grassy region of the map" color="#8cb6ce" meeting="false" start="2018-10-22" duration="7" complete="0" thirdDate="2018-09-24" thirdDate-constraint="0" expand="true"/>
+            <task id="41" name="Design Battle Instance for Grassy Region" color="#8cb6ce" meeting="false" start="2018-10-25" duration="4" complete="0" thirdDate="2018-10-10" thirdDate-constraint="0" expand="true"/>
+            <task id="101" name="Complete Grassy Region" color="#8cb6ce" meeting="true" start="2018-10-31" duration="0" complete="0" thirdDate="2018-10-11" thirdDate-constraint="0" expand="true"/>
+        </task>
+        <task id="8" name="Create Swipe to Pan feature" color="#8cb6ce" meeting="false" start="2018-10-29" duration="6" complete="0" thirdDate="2018-09-24" thirdDate-constraint="0" expand="true">
+            <task id="45" name="Setup Swipe gesture to be recognised" color="#8cb6ce" meeting="false" start="2018-10-29" duration="3" complete="0" thirdDate="2018-10-10" thirdDate-constraint="0" expand="true"/>
+            <task id="6" name="Setup calculation for camera movement relative to swipe" color="#8cb6ce" meeting="false" start="2018-10-31" duration="4" complete="0" thirdDate="2018-09-24" thirdDate-constraint="0" expand="true"/>
+            <task id="122" name="Test Swipe to pan feature" color="#8cb6ce" meeting="false" start="2018-11-01" duration="3" complete="0" thirdDate="2018-10-05" thirdDate-constraint="0" expand="true"/>
+            <task id="104" name="Complete Camera Control" color="#8cb6ce" meeting="true" start="2018-11-06" duration="0" complete="0" thirdDate="2018-10-11" thirdDate-constraint="0" expand="true"/>
+        </task>
+        <task id="10" name="Explore and Battle Transition code" color="#8cb6ce" meeting="false" start="2018-11-05" duration="7" complete="0" thirdDate="2018-09-24" thirdDate-constraint="0" expand="true">
+            <task id="52" name="Battle Camera Animations" color="#8cb6ce" meeting="false" start="2018-11-05" duration="3" complete="0" thirdDate="2018-09-24" thirdDate-constraint="0" expand="true"/>
+            <task id="53" name="Code Transition from Explore to Battle" color="#8cb6ce" meeting="false" start="2018-11-07" duration="4" complete="0" thirdDate="2018-10-10" thirdDate-constraint="0" expand="true"/>
+            <task id="57" name="Code Transition frm Battle to Explore" color="#8cb6ce" meeting="false" start="2018-11-08" duration="4" complete="0" thirdDate="2018-10-10" thirdDate-constraint="0" expand="true"/>
+            <task id="126" name="Test Transition Feature" color="#8cb6ce" meeting="false" start="2018-11-09" duration="3" complete="0" thirdDate="2018-10-05" thirdDate-constraint="0" expand="true"/>
+            <task id="107" name="Complete Transition Feature" color="#8cb6ce" meeting="true" start="2018-11-14" duration="0" complete="0" thirdDate="2018-10-11" thirdDate-constraint="0" expand="true"/>
+        </task>
+        <task id="16" name="Build Dialogue System" color="#8cb6ce" meeting="false" start="2018-11-13" duration="5" complete="0" thirdDate="2018-09-24" thirdDate-constraint="0" expand="true">
+            <task id="61" name="Design Dialogue System UI" color="#8cb6ce" meeting="false" start="2018-11-13" duration="3" complete="0" thirdDate="2018-10-10" thirdDate-constraint="0" expand="true"/>
+            <task id="63" name="Setup Text parser and classes" color="#8cb6ce" meeting="false" start="2018-11-14" duration="4" complete="0" thirdDate="2018-10-10" thirdDate-constraint="0" expand="true"/>
+            <task id="129" name="Test Dialogue System" color="#8cb6ce" meeting="false" start="2018-11-14" duration="4" complete="0" thirdDate="2018-10-16" thirdDate-constraint="0" expand="true"/>
+            <task id="109" name="Complete Dialogue System" color="#8cb6ce" meeting="true" start="2018-11-20" duration="0" complete="0" thirdDate="2018-10-11" thirdDate-constraint="0" expand="true"/>
+        </task>
+        <task id="21" name="Exploration UI Creation" color="#8cb6ce" meeting="false" start="2018-11-19" duration="5" complete="0" thirdDate="2018-09-24" thirdDate-constraint="0" expand="true">
+            <task id="67" name="Planning Exploration UI" color="#8cb6ce" meeting="false" start="2018-11-19" duration="3" complete="0" thirdDate="2018-10-10" thirdDate-constraint="0" expand="true"/>
+            <task id="69" name="Designing and Added Exploration UI" color="#8cb6ce" meeting="false" start="2018-11-21" duration="3" complete="0" thirdDate="2018-10-10" thirdDate-constraint="0" expand="true"/>
+            <task id="71" name="Implement Logic behind UI" color="#8cb6ce" meeting="false" start="2018-11-21" duration="3" complete="0" thirdDate="2018-10-10" thirdDate-constraint="0" expand="true"/>
+            <task id="132" name="Test Exploration UI Features" color="#8cb6ce" meeting="false" start="2018-11-21" duration="3" complete="0" thirdDate="2018-10-23" thirdDate-constraint="0" expand="true"/>
+            <task id="111" name="Complete Exploration UI" color="#8cb6ce" meeting="true" start="2018-11-23" duration="0" complete="0" thirdDate="2018-10-11" thirdDate-constraint="0" expand="true"/>
+        </task>
+        <task id="25" name="Battle UI Creation" color="#8cb6ce" meeting="false" start="2018-11-26" duration="7" complete="0" thirdDate="2018-09-24" thirdDate-constraint="0" expand="true">
+            <task id="72" name="Plan Battle UI Elements" color="#8cb6ce" meeting="false" start="2018-11-26" duration="2" complete="0" thirdDate="2018-10-10" thirdDate-constraint="0" expand="true"/>
+            <task id="74" name="Design and Add UI Elements" color="#8cb6ce" meeting="false" start="2018-11-27" duration="3" complete="0" thirdDate="2018-10-10" thirdDate-constraint="0" expand="true"/>
+            <task id="76" name="Implement Logic for UI Elements" color="#8cb6ce" meeting="false" start="2018-11-29" duration="4" complete="0" thirdDate="2018-10-10" thirdDate-constraint="0" expand="true"/>
+            <task id="135" name="Test Battle UI" color="#8cb6ce" meeting="false" start="2018-11-29" duration="4" complete="0" thirdDate="2018-10-26" thirdDate-constraint="0" expand="true"/>
+            <task id="118" name="Complete Battle UI" color="#8cb6ce" meeting="true" start="2018-12-05" duration="0" complete="0" thirdDate="2018-10-11" thirdDate-constraint="0" expand="true"/>
+        </task>
+        <task id="27" name="Merchant System" color="#8cb6ce" meeting="false" start="2018-12-05" duration="11" complete="0" thirdDate="2018-09-24" thirdDate-constraint="0" expand="true">
+            <task id="80" name="Planning" color="#8cb6ce" meeting="false" start="2018-12-05" duration="3" complete="0" thirdDate="2018-10-18" thirdDate-constraint="0" expand="true"/>
+            <task id="83" name="Creating NPC Template" color="#8cb6ce" meeting="false" start="2018-12-07" duration="1" complete="0" thirdDate="2018-10-18" thirdDate-constraint="0" expand="true"/>
+            <task id="85" name="Plan and Design Trading UI" color="#8cb6ce" meeting="false" start="2018-12-10" duration="3" complete="0" thirdDate="2018-10-18" thirdDate-constraint="0" expand="true"/>
+            <task id="92" name="Implement Trading UI Logic" color="#8cb6ce" meeting="false" start="2018-12-12" duration="6" complete="0" thirdDate="2018-10-29" thirdDate-constraint="0" expand="true"/>
+            <task id="139" name="Test Merchant Trade System" color="#8cb6ce" meeting="false" start="2018-12-18" duration="2" complete="0" thirdDate="2018-11-29" thirdDate-constraint="0" expand="true"/>
+            <task id="119" name="Complete Merchant System" color="#8cb6ce" meeting="true" start="2018-12-20" duration="0" complete="0" thirdDate="2018-11-26" thirdDate-constraint="0" expand="true"/>
+        </task>
+        <task id="94" name="Project Plan" color="#8cb6ce" meeting="false" start="2018-10-08" duration="9" complete="0" thirdDate="2018-10-11" thirdDate-constraint="0" expand="true"/>
+        <task id="120" name="Disertation Writing" color="#8cb6ce" meeting="false" start="2019-01-07" duration="83" complete="0" thirdDate="2018-11-26" thirdDate-constraint="0" expand="true"/>
+        <task id="144" name="Prototype Testing" color="#8cb6ce" meeting="false" start="2018-11-21" duration="6" complete="0" thirdDate="2018-11-14" thirdDate-constraint="0" expand="true"/>
+        <task id="140" name="Project Demo" color="#8cb6ce" meeting="false" start="2018-11-26" duration="25" complete="0" thirdDate="2018-11-30" thirdDate-constraint="0" expand="true"/>
+        <task id="146" name="Combat AI Development" color="#8cb6ce" meeting="false" start="2019-01-01" duration="18" complete="0" thirdDate="2018-11-16" thirdDate-constraint="0" expand="true">
+            <task id="149" name="Game Theory and AI Research" color="#8cb6ce" meeting="false" start="2019-01-01" duration="10" complete="0" thirdDate="2018-12-14" thirdDate-constraint="0" expand="true"/>
+            <task id="152" name="Combat AI Implementation" color="#8cb6ce" meeting="false" start="2019-01-10" duration="8" complete="0" thirdDate="2018-12-14" thirdDate-constraint="0" expand="true"/>
+            <task id="156" name="Testing AI and Debugging" color="#8cb6ce" meeting="false" start="2019-01-18" duration="5" complete="0" thirdDate="2018-12-14" thirdDate-constraint="0" expand="true"/>
+            <task id="158" name="Combat AI Completion" color="#8cb6ce" meeting="true" start="2019-01-25" duration="0" complete="0" thirdDate="2018-12-14" thirdDate-constraint="0" expand="true"/>
+        </task>
+        <task id="160" name="Exploration Enemy AI" color="#8cb6ce" meeting="false" start="2019-01-24" duration="8" complete="0" thirdDate="2018-12-14" thirdDate-constraint="0" expand="true">
+            <task id="164" name="Planning Exploration AI States" color="#8cb6ce" meeting="false" start="2019-01-24" duration="4" complete="0" thirdDate="2018-12-14" thirdDate-constraint="0" expand="true"/>
+            <task id="166" name="Implementing Exploration AI States" color="#8cb6ce" meeting="false" start="2019-01-28" duration="5" complete="0" thirdDate="2018-12-14" thirdDate-constraint="0" expand="true"/>
+            <task id="169" name="Testing AI Exploration States" color="#8cb6ce" meeting="false" start="2019-01-30" duration="4" complete="0" thirdDate="2018-12-14" thirdDate-constraint="0" expand="true"/>
+            <task id="172" name="Completion of Exploration Enemy AI" color="#8cb6ce" meeting="true" start="2019-02-05" duration="0" complete="0" thirdDate="2018-12-14" thirdDate-constraint="0" expand="true"/>
+        </task>
+        <task id="175" name="Adding Mountainous Region" meeting="false" start="2019-02-04" duration="9" complete="0" expand="true">
+            <task id="176" name="Planning and Designing Mountainous Region" color="#8cb6ce" meeting="false" start="2019-02-04" duration="3" complete="0" thirdDate="2018-12-14" thirdDate-constraint="0" expand="true"/>
+            <task id="178" name="Creating Mountainous Region" color="#8cb6ce" meeting="false" start="2019-02-06" duration="4" complete="0" thirdDate="2018-12-14" thirdDate-constraint="0" expand="true"/>
+            <task id="180" name="Creating Mountainous Region Instance" color="#8cb6ce" meeting="false" start="2019-02-11" duration="4" complete="0" thirdDate="2019-01-07" thirdDate-constraint="0" expand="true"/>
+        </task>
+        <task id="182" name="Adding Lake Region" color="#8cb6ce" meeting="false" start="2019-02-12" duration="8" complete="0" thirdDate="2019-01-07" thirdDate-constraint="0" expand="true">
+            <task id="184" name="Planning Lake Region" color="#8cb6ce" meeting="false" start="2019-02-12" duration="3" complete="0" thirdDate="2019-01-07" thirdDate-constraint="0" expand="true"/>
+            <task id="185" name="Creating Lake Region" color="#8cb6ce" meeting="false" start="2019-02-14" duration="5" complete="0" thirdDate="2019-01-07" thirdDate-constraint="0" expand="true"/>
+            <task id="186" name="Creating Lake Region Instance" color="#8cb6ce" meeting="false" start="2019-02-19" duration="3" complete="0" thirdDate="2019-01-07" thirdDate-constraint="0" expand="true"/>
+        </task>
+        <task id="188" name="Creating Menu System" meeting="false" start="2019-02-21" duration="20" complete="0" expand="true">
+            <task id="193" name="Plan and mockup Menu UI" color="#8cb6ce" meeting="false" start="2019-02-21" duration="3" complete="0" thirdDate="2019-01-07" thirdDate-constraint="0" expand="true"/>
+            <task id="197" name="Create Menu UI" color="#8cb6ce" meeting="false" start="2019-02-25" duration="2" complete="0" thirdDate="2019-01-07" thirdDate-constraint="0" expand="true"/>
+            <task id="205" name="Create Inventory UI and Logic" color="#8cb6ce" meeting="false" start="2019-02-26" duration="5" complete="0" thirdDate="2019-01-07" thirdDate-constraint="0" expand="true"/>
+            <task id="206" name="Create Character Stats UI and Logic" color="#8cb6ce" meeting="false" start="2019-03-04" duration="7" complete="0" thirdDate="2019-02-06" thirdDate-constraint="0" expand="true"/>
+            <task id="208" name="Create Character Skills and Magic UI and Logic" color="#8cb6ce" meeting="false" start="2019-03-11" duration="6" complete="0" thirdDate="2019-02-06" thirdDate-constraint="0" expand="true"/>
+            <task id="199" name="Test Menu UI" color="#8cb6ce" meeting="false" start="2019-03-15" duration="4" complete="0" thirdDate="2019-02-26" thirdDate-constraint="0" expand="true"/>
+            <task id="241" name="Menu Completion" color="#8cb6ce" meeting="true" start="2019-03-21" duration="0" complete="0" thirdDate="2019-01-29" thirdDate-constraint="0" expand="true"/>
+        </task>
+        <task id="215" name="Catchup Period/Head Start" color="#8cb6ce" meeting="false" start="2019-03-20" duration="14" complete="0" thirdDate="2019-03-04" thirdDate-constraint="0" expand="true"/>
+        <task id="217" name="Add Enemies to Other Regions" color="#8cb6ce" meeting="false" start="2019-04-01" duration="10" complete="0" thirdDate="2019-03-18" thirdDate-constraint="0" expand="true"/>
+        <task id="220" name="Adding other Characters to Combat Instances and Logic" color="#8cb6ce" meeting="false" start="2019-04-09" duration="12" complete="0" thirdDate="2019-03-18" thirdDate-constraint="0" expand="true"/>
+        <task id="223" name="Adding Additional Weapons" color="#8cb6ce" meeting="false" start="2019-04-18" duration="6" complete="0" thirdDate="2019-03-18" thirdDate-constraint="0" expand="true"/>
+        <task id="228" name="Finalizing Dissertation" color="#8cb6ce" meeting="false" start="2019-04-24" duration="6" complete="0" thirdDate="2019-03-18" thirdDate-constraint="0" expand="true"/>
+        <task id="240" name="Project Completion" color="#8cb6ce" meeting="true" start="2019-05-02" duration="0" complete="0" thirdDate="2019-03-18" thirdDate-constraint="0" expand="true"/>
+    </tasks>
+    <resources/>
+    <allocations/>
+    <vacations/>
+    <previous/>
+    <roles roleset-name="Default"/>
+</project>
